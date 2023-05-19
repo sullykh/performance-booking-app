@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739585044562",
+    "project_id": "temp-performance-booking",
+    "storage_bucket": "temp-performance-booking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739585044562:android:c7f45172ef6b0f4721ef8b",
+        "android_client_info": {
+          "package_name": "com.example.project58"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739585044562-hrgn5cvolibp2rfkdr4q9lm28r4dukb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQDqoIGuUxiW4PM0vKQCf_XWOJMPOwE5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739585044562-hrgn5cvolibp2rfkdr4q9lm28r4dukb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

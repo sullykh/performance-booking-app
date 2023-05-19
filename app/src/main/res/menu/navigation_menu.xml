@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:id="@+id/nav_myTickets"
+        android:title="My Tickets" />
+    <item
+        android:id="@+id/nav_performances"
+        android:title="Performances List" />
+    <item
+        android:id="@+id/nav_logOut"
+        android:title="Log Out" />
+    <item
+        android:id="@+id/nav_quitApp"
+        android:title="Quit App" />
+
+</menu>
